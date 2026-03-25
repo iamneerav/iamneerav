@@ -15,13 +15,15 @@
 
 <h3 align="left">Certifications & Expertise:</h3>
 
-- 🏆 **Microsoft Certified**: DevOps Engineer Expert (**AZ-400**) & Solutions Architect Expert (**AZ-305**)
-- 
-- 🏆 **HashiCorp Certified**: **Terraform Associate**
-- 
+- 🏆 **Microsoft Certified**: DevOps Engineer Expert (AZ-400) 
+
+- 🏆**Microsoft Certified**: Solutions Architect Expert (AZ-305)
+  
+- 🏆 **HashiCorp Certified**: Terraform Associate
+
 - 🏆 **AWS Certified**: Solutions Architect Associate
-- 
-- 🎡 **Upcoming**: Certified Kubernetes Administrator (**CKA**)
+
+- 🎡 **Upcoming**: Certified Kubernetes Administrator (CKA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
