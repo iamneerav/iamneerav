@@ -9,7 +9,7 @@
 
 - 💬 **Ask me about**: **Kubernetes, Terraform, Azure DevOps, Azure, Helm, DR, AWS, GitOps, ENT Migration, Solutions Architect**.
 
-- 📫 **How to reach me**: [linkedin.com/in/neeravbhatia](https://linkedin.com/in/neeravbhatia/) [cite: 2]
+- 📫 **How to reach me**: [linkedin.com/in/neeravbhatia](https://linkedin.com/in/neeravbhatia/)
 
 - ⚡ **Fun fact**: I managed to reduce a critical security vulnerability score from **9.8/10 to 3/10** for a cloud-native application.
 
