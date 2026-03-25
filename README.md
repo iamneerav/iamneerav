@@ -7,11 +7,11 @@
 
 - ⚙️ **Infrastructure**: I led large-scale migrations to **Azure (AKS)** and manage production Kubernetes clusters.
 
-- [cite_start]💬 **Ask me about**: **Kubernetes, Terraform, Azure DevOps, Azure, Helm, DR, AWS, GitOps, ENT Migration, Solutions Architect**[cite: 6, 7, 25].
+- 💬 **Ask me about**: **Kubernetes, Terraform, Azure DevOps, Azure, Helm, DR, AWS, GitOps, ENT Migration, Solutions Architect**.
 
-- [cite_start]📫 **How to reach me**: [linkedin.com/in/neeravbhatia](https://linkedin.com/in/neeravbhatia/) [cite: 2]
+- 📫 **How to reach me**: [linkedin.com/in/neeravbhatia](https://linkedin.com/in/neeravbhatia/) [cite: 2]
 
-- [cite_start]⚡ **Fun fact**: I managed to reduce a critical security vulnerability score from **9.8/10 to 3/10** for a cloud-native application[cite: 28].
+- ⚡ **Fun fact**: I managed to reduce a critical security vulnerability score from **9.8/10 to 3/10** for a cloud-native application.
 
 
 <h3 align="left">Connect with me:</h3>
