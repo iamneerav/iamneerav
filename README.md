@@ -5,7 +5,7 @@
 
 - 🌱 **Currently learning**: **Go (Golang)** for backend engineering and distributed systems.
 
-- 💬 **Ask me about**: **Kubernetes, Terraform, Azure DevOps, Azure, Helm, DR, AWS, GitOps, ENT Migration, Solutions Architect**.
+- 💬 **Ask me about**: Kubernetes, Terraform, Azure DevOps, Azure, Helm, DR, AWS, GitOps, ENT Migration, Solutions Architect.
 
 - 📫 **How to reach me**: [linkedin.com/in/neeravbhatia](https://linkedin.com/in/neeravbhatia/)
 
