@@ -5,11 +5,27 @@
 
 - 🌱 **Currently learning**: **Go (Golang)** for backend engineering and distributed systems.
 
-- 💬 **Ask me about**: Kubernetes, Terraform, Azure DevOps, Azure, Helm, DR, AWS, GitOps, ENT Migration, Solutions Architect.
-
 - 📫 **How to reach me**: [linkedin.com/in/neeravbhatia](https://linkedin.com/in/neeravbhatia/)
 
 - ⚡ **Fun fact**: I managed to reduce a critical security vulnerability score from **9.8/10 to 3/10** for a cloud-native application.
+
+### 🔧 Technologies and Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **Cloud** | Azure, AWS, GCP |
+| **IaC** | Terraform, ARM |
+| **Containerization** | Docker, Kubernetes, AKS |
+| **CI/CD** | Jenkins, Azure DevOps |
+| **Configuration Management** | Ansible |
+| **Monitoring** | Site24x7, Prometheus, Grafana, NewRelic, Dynatrace |
+| **Scripting** | Bash, Python |
+| **Version Contro** | Git, GitHub |
+| **Security** | GHazDO, Jfrog Xray, Microsoft Defender for Cloud |
+| **Auth & Identity** | HashiCorp Vault, Azure AD, AWS IAM, Role-Based Access Control (RBAC), SSO, Okta, LDAP |
+| **Databases** | SQL Server, PostgreSQL, MySQL, Redis |
+| **Registry** | JFrog Artifactory, Nexus |
+| **Programming** | Golang |  
 
 <h3 align="left">Certifications & Expertise:</h3>
 
