@@ -5,8 +5,6 @@
 
 - 🌱 **Currently learning**: **Go (Golang)** for backend engineering and distributed systems.
 
-- ⚙️ **Infrastructure**: I led large-scale migrations to **Azure (AKS)** and manage production Kubernetes clusters.
-
 - 💬 **Ask me about**: **Kubernetes, Terraform, Azure DevOps, Azure, Helm, DR, AWS, GitOps, ENT Migration, Solutions Architect**.
 
 - 📫 **How to reach me**: [linkedin.com/in/neeravbhatia](https://linkedin.com/in/neeravbhatia/)
