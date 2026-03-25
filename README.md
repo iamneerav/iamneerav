@@ -13,6 +13,11 @@
 
 - ⚡ **Fun fact**: I managed to reduce a critical security vulnerability score from **9.8/10 to 3/10** for a cloud-native application.
 
+<h3 align="left">Certifications & Expertise:</h3>
+- 🏆 **Microsoft Certified**: DevOps Engineer Expert (**AZ-400**) & Solutions Architect Expert (**AZ-305**)
+- 🏆 **HashiCorp Certified**: **Terraform Associate**
+- 🏆 **AWS Certified**: Solutions Architect Associate
+- 🎡 **Upcoming**: Certified Kubernetes Administrator (**CKA**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
