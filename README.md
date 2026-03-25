@@ -17,7 +17,7 @@
 
 - 🏆 **Microsoft Certified**: DevOps Engineer Expert (AZ-400) 
 
-- 🏆**Microsoft Certified**: Solutions Architect Expert (AZ-305)
+- 🏆 **Microsoft Certified**: Solutions Architect Expert (AZ-305)
   
 - 🏆 **HashiCorp Certified**: Terraform Associate
 
