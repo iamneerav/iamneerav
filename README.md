@@ -39,6 +39,10 @@
 
 - 🎡 **Upcoming**: Certified Kubernetes Administrator (CKA)
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamneerav&show_icons=true&theme=radical) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/neeravbhatia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/neeravbhatia/" height="30" width="40" /></a>
